@@ -3,11 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Acesso remoto através do Vercel:
-``
+` https://financas-app-typescript.vercel.app/`
 
 ## Funcionamento:
 
 A aplicação web tem o principal objetivo de auxiliar no gerenciamento de finanças, onde o usuário pode fornecer novas despesas e receitas e no final ele recebe um balanço do mês.
+
+![safas](https://user-images.githubusercontent.com/71346403/148655884-31184d80-09de-4b84-b235-cbf98d7869d1.png)
+
 
 ## Intalação e inicialização
 
