@@ -16,11 +16,11 @@ A aplicação web tem o principal objetivo de auxiliar no gerenciamento de finan
 
 ### 1º Passo (Clonando Repositório)
 
-`git clone https://github.com/sadrakmorais/HealthyFood.git`
+`git clone https://github.com/sadrakmorais/financas-app-Typescript.git`
 
 ### 2º Passo (Abrir pasta e instalar dependências)
 
-`cd healthy-food`
+`cd financas-app`
 Instalando dependências com YARN:
 `yarn`
 Instalando dependências com NPM:
